@@ -1,0 +1,80 @@
+= Workshop - Build Professional Website from Scratch
+:toc:
+:toc-placement!:
+
+// Settings:
+:idprefix:
+:idseparator: -
+ifndef::env-github[]
+:icons: font
+endif::[]
+ifdef::env-github,env-browser[]
+:toc: preamble
+:toclevels: 5
+endif::[]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+Brought to you by link:https://gbrgacademy.com[GbrG Academy].
+
+'''
+toc::[]
+'''
+
+== Overview
+
+It is a _Career Focussed Workshop_ on _How to build professional website_ from scratch. 
+The aim of this workshop is to make you familiar with the development of professional website.
+
+=== What is Professional Website?
+
+A professional website, in my opinion, is the website which is ready to serve it's purpose completely.
+For example, if the website of type _Corporate_, then it should showcase the business's services or products
+well, have proper SEO tags which will help in searching, should have good contact points etc.
+
+== Prerequisites
+
+- Programming Language Concept (See a link:https://www.edx.org/course/programming-basics[nice course on Edx.org])
+- Passion to Learn
+- Basic Knowledge of HTML, CSS & JavaScript 
+
+== Flow of Workshop
+
+- First Theory
+- Then, Practical and You will do along with me
+- And, We will be mentoring along the way,
+- Finally, repeat above three in short session during the Workshop
+
+== Basics - Section 1
+
+- Introduction
+- What, Whom, Why & How
+- HTML Basics Revision
+- CSS Basics Revision
+- JavaScript Basics Revision
+
+NOTE: Short Break
+
+== Intermediate - Section 2
+
+- link:https://https://jekyllrb.com[Jekyll] Framework Introduction
+- Ruby Basics
+- Website Categories
+
+NOTE: Short Break
+
+== Finale - Section 3
+
+- Building the Home Page
+- Building the Other Pages
+- Building the Contact Page
+
+NOTE: End of Session. Thanks.
